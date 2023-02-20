@@ -1,3 +1,4 @@
 import * as modules from "modules"
 
-modules.lineChart()
+// modules.lineChart()
+modules.scatterPlot()
